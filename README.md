@@ -1,4 +1,22 @@
-<h1 align="center">Hi 👋, I'm HC-teemo.</h1>
+## Hi 👋, I'm HC-teemo.
+
+[![Gmail Badge](https://img.shields.io/badge/-huchuan@cnic.cn-c14438?style=flat&logo=gmail&logoColor=white)](mailto:huchuan@cnic.cn "Connect via Email")
+
+
+I am a PhD student in the Computer Network Information Center of the Chinese Academy of Sciences, and my research field is graph database.
+
+<details>
+  <summary><b>📑 Publications</b></summary>
+  
+  - Zhihong Shen, **Chuan Hu**, and Zihao Zhao. (2023) Lynx: A Graph Query Framework for Multiple Heterogeneous Data Sources. VLDB 2023.
+  - Zeng Chenglin, Wang Huajin, Shen Zhihong and **Hu Chuan**. (2023) A benchmark for Dynamic Graph version management. SSDBM 2023.
+  - Zihao Zhao, Xiaodong Ge, Zhihong Shen, **Hu Chuan**. (2023) S2CTrans: Building a Bridge from SPARQL to Cypher. DEXA 2023.
+  - Zihao Zhao, Hu Chuan, Zhihong Shen, Along Mao, Hao Ren. (2023) A Key-Value Based Approach to Scalable Graph Database. DEXA 2023.
+  - Zhao, Z., Shen, Z., Mao, A., Wang, H., & **Hu, C**. (2023). PandaDB: An AI-Native Graph Database for Unified Managing Structured and Unstructured Data. DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part IV (pp. 669-673).
+  - Shi, W., Fan, G., Shen, Z., **Hu, C.**, Ma, J., Zhou, Y., ... & Wu, L. (2022). gcCov: Linked open data for global coronavirus studies. Mlife, 1(1), 92-95.
+  - Shen, Z., Zhao, Z., Wang, H., Liu, Z., **Hu, C.**, & Zhou, C. (2021). PandaDB: Intelligent Management System for Heterogeneous Data. Int. J. Softw. Informatics, 11(1), 69-90.
+  - 沈志宏, 赵子豪, 王华进, 刘忠新, **胡川**, & 周园春. (2021). PandaDB: 一种异构数据智能融合管理系统. Journal of Software, 32(3), 763-780.
+</details>
 
 <details>
   <summary><b>💻 Tech Stack</b></summary>
