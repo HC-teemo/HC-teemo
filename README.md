@@ -7,7 +7,8 @@ I am a PhD student in the Computer Network Information Center of the Chinese Aca
 
 <details>
   <summary><b>📑 Publications</b></summary>
-  
+  - **Chuan Hu**, Jiawei Cai, Zihao Zhao, and Zhihong Shen. (2024) BIT: Using Bitmap Index to Speed Up NCBI Taxonomy Computing. SSDBM 2024.
+  - **Chuan Hu**, Zihao Zhao, Along Mao, and Zhihong Shen. (2024) A Model and Query Language for Multi-modal Hybrid Query. SSDBM 2024.
   - Zhihong Shen, **Chuan Hu**, and Zihao Zhao. (2023) Lynx: A Graph Query Framework for Multiple Heterogeneous Data Sources. VLDB 2023.
   - Zeng Chenglin, Wang Huajin, Shen Zhihong and **Hu Chuan**. (2023) A benchmark for Dynamic Graph version management. SSDBM 2023.
   - Zihao Zhao, Xiaodong Ge, Zhihong Shen, **Hu Chuan**. (2023) S2CTrans: Building a Bridge from SPARQL to Cypher. DEXA 2023.
